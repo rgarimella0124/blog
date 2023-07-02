@@ -1,0 +1,33 @@
+body {
+  background-color: #29539b;
+  background-image: linear-gradient(315deg, #29539b 0%, #1e3b70 74%);
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+body .container {
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+body .container .logo {
+  font-size: 3rem;
+  margin-bottom: 30px;
+  color: #333;
+}
+body .container .description {
+  font-size: 1.2rem;
+  margin-bottom: 50px;
+  color: #666;
+}
+body .countdown {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 50px;
+}
+
+/*# sourceMappingURL=styles.css.map */
